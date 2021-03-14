@@ -1,0 +1,15 @@
+current directory: /Users/rsusbal/Jedi/contacts/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/rsusbal/.rubies/ruby-2.6.3/bin/ruby -I /Users/rsusbal/.rubies/ruby-2.6.3/lib/ruby/2.6.0 -r ./siteconf20210314-29494-ny4y9l.rb extconf.rb
+creating Makefile
+
+current directory: /Users/rsusbal/Jedi/contacts/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/rsusbal/Jedi/contacts/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/rsusbal/Jedi/contacts/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20210314-29494-7l3zdm/skiptrace/internal

@@ -1,0 +1,14 @@
+current directory: /Users/rsusbal/Jedi/contacts/vendor/bundle/ruby/2.6.0/gems/interception-0.5/ext
+/Users/rsusbal/.rubies/ruby-2.6.3/bin/ruby -I /Users/rsusbal/.rubies/ruby-2.6.3/lib/ruby/2.6.0 -r ./siteconf20210314-45978-pmb6h9.rb extconf.rb
+
+current directory: /Users/rsusbal/Jedi/contacts/vendor/bundle/ruby/2.6.0/gems/interception-0.5/ext
+make "DESTDIR=" clean
+make: *** No rule to make target `clean'.  Stop.
+
+current directory: /Users/rsusbal/Jedi/contacts/vendor/bundle/ruby/2.6.0/gems/interception-0.5/ext
+make "DESTDIR="
+:
+
+current directory: /Users/rsusbal/Jedi/contacts/vendor/bundle/ruby/2.6.0/gems/interception-0.5/ext
+make "DESTDIR=" install
+:
